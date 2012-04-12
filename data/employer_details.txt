@@ -1,0 +1,184 @@
+ <!-- strSql<br>  --> 
+
+<!-- HEADER  --><!-- HEADER  --><!-- <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"> --><!-- <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html lang="en">
+<head profile="http://dublincore.org">
+<meta name="generator" content="HTML Tidy for Linux (vers 6 November 2007), see www.w3.org">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Language" content="en-US">
+<meta name="robots" content="index, follow">
+<title>Labor Market Information - Labor and Workforce Development - Mass.Gov</title>
+<meta name="DC.title" content="Labor Force">
+<meta name="DC.description" content="">
+<meta name="DC.publisher" content="Labor and Workforce Development">
+<meta name="DC.date" scheme="W3CDTF" content="2011-00-05">
+<meta content="Percussion CM System" name="generator">
+<META NAME="keywords" CONTENT="unemployment, employment, labor market information, occupation, labor force, jobs, claimant, wage, employment projections, employer"><META NAME="description" CONTENT="The Executive Office of Labor and Workforce Development (EOLWD) provides unemployment assistance, job matching services, workersï¿½ compensation benefits, workplace safety enforcement, labor market information and workforce training for Massachusetts citizens and employers."><META name="ROBOTS" content="index,follow"><meta name="govtype" content="state"><META name="search" content= "Labor and Workforce Development">
+<link rel="schema.DC" href="http://purl.org/dc/elements/1.1/">
+<link rel="schema.DCTERMS" href="http://purl.org/dc/terms/"><!-- style sheets -->
+<link rel="stylesheet" href="http://www.mass.gov/resources/styles/screen.css" type="text/css" media="screen">
+<link rel="stylesheet" href="http://www.mass.gov/resources/styles/site_elw.css" type="text/css" media="screen">
+<!--<link rel="stylesheet" href="http://www.mass.gov/resources/styles/mgs-ss-slideshow.css" type="text/css" media="screen">
+<link rel="stylesheet" href="http://www.mass.gov/resources/styles/print.css" type="text/css" media="print">
+-->
+<!--[if IE]>
+        <link rel="stylesheet" href="http://www.mass.gov/resources/styles/screen_ie.css" type="text/css" />
+      <![endif]-->
+<style type="text/css">
+ input.c1 {background-color:#b4c4d3;font-weight:bold;height:25px;width:200px;}
+</style>
+<style type="text/css">
+ input.c2 {background-color:#b4c4d3;font-weight:bold;height:25px;width:200px;}
+ div.c1 {font-size:20px;}
+</style>
+<link rel="stylesheet" href="include/MAgovStyles.css" type="text/css">		
+<style type="text/css">
+ 
+/* Tables
+-------------------------------------------------------------- */
+#page table {	
+	margin:0; 
+	border-collapse:collapse;
+	float: none;
+	}
+#page td, #page th {	
+	padding: 0;
+	}	
+</style>
+</head>
+<body>
+<a id="top" name="top"></a>
+<div id="page"><!-- alert content here -->
+<!-- skip link -->
+<div id="skips">
+<ul>
+<li id="alert-status">Alert - <a href="http://www.mass.gov/alert/alertlanding.html">No Active Alerts</a></li>
+<li id="skip-main"><a href="#maincontent">Skip to main content</a></li>
+<li class="accessibility"><a href="#main_menu">Skip to main menu</a></li>
+<li class="last"><a href="http://www.mass.gov/portal/font-resize-help.html">Need help resizing text?</a></li>
+</ul>
+<ul id="globalgrouplinks">
+<li><a href="http://www.mass.gov/portal/global-agency-list.html">State Agencies</a></li>
+<li class="last"><a href="http://www.mass.gov/portal/global-a-z-list.html">A-Z Topics</a></li>
+</ul>
+<!-- #globalgrouplinks -->
+<a href="http://www.mass.gov/" id="logo" name="logo"><img src="http://www.mass.gov/resources/images/template/massgovlogo.png" width="101" height="35" alt="Go to Mass.gov home."></a></div>
+<!-- #skip -->
+<div class="module" style="margin-left:17px; margin-right:17px;">
+<a href="http://www.mass.gov/lmi" id="lwd_top" name="lwd_top"><img src="images/lwd_top.JPG" width="971" height="104" alt="Go to Mass.gov/LMI home."></a>
+</div>
+<!-- #header -->
+<div id="breadcrumbs">
+<h2 class="accessibility">Breadcrumbs</h2>
+<ol>
+<li lang="en-us"><a href="http://www.mass.gov/lwd">Home</a></li>
+<li lang="en-us"><a href="http://www.mass.gov/lwd/economic-data/">Labor Market Information</a></li>
+</ol>
+</div>
+<!-- Begin pageContent -->
+
+				
+
+<!-- Begin pageContent -->
+<h1 id="maincontent">Company Information</h1>
+<div id="pagedescription"></div><!-- #pagedescription -->
+<div id="body" class="pg_category page_2col_left">
+<div id="content" class="no_left">
+<div id="introduction"><!-- Center column -->
+<div class="center_slot"><!-- .center_slot -->
+<div class="cbody">
+
+<div align='right'><a href="JavaScript:window.close()">Close</a></div> 
+
+		
+<table width="80%" BORDER="0" cellspacing="2" cellpadding="2" align=center>
+	<tr>
+		<td align="left" ><b>Company Name</b></td>
+	<td align="left" >7-ELEVEN</td>
+	</tr>
+	<tr>
+		<td align="left" ><b>Street Address</b></td>
+	<td align="left" >
+			1149 Falmouth Rd
+		<br>
+			Centerville,&nbsp; MA&nbsp; 02632
+		</td>
+	</tr>
+	<tr>
+		<td align="left" ><b>Contact Name</b></td>
+	<td align="left" >
+		Rana&nbsp; Bakhsh
+		</td>
+	</tr>
+	<tr>
+		<td align="left" ><b>Phone #</b></td>
+	<td align="left" >
+		
+		(508) 775-7499
+		</td>
+	</tr>
+	<tr>
+		<td align="left" ><B>Employee Size Range </b></td>
+	<td align="left" >1-4<br><br></td>
+	</tr>
+</table>
+<form action="http://maps.google.com/maps" method="get" id=form1   target="new" name=form1>
+	<input TYPE="HIDDEN" name="q"	value="1149 Falmouth Rd&nbsp;&nbsp;Centerville,&nbsp;MA&nbsp;&nbsp;02632">
+    <input TYPE="HIDDEN" name="sll" value="41,41">
+    <input TYPE="HIDDEN" name="ht"	value="400" >
+	<input TYPE="HIDDEN" name="wd"	value="400" >
+	<input TYPE="HIDDEN" name="mp"  value="Road" >
+	<input TYPE="HIDDEN" name="mrk" value="F" >
+	<input TYPE="HIDDEN" name="si"	value="false" >
+	
+	
+ 
+    
+    
+<!--    
+    http://maps.google.com/maps?f=q&source=s_q&hl=en&q=&vps=1&jsv=183b&sll=37.0625,-95.677068&sspn=39.729049,57.480469&ie=UTF8&geocode=FS8AiAIdETfG-w&split=0
+   GoogleMap.html ?q=Golden%20Gate%20Park&amp;zm=14&amp;ht=500&amp;wd=800 
+-->    
+<table	 align=center>
+	<tr>
+		<td colspan="2" align="center" valign="bottom">
+			<input type="submit" style="background-color:#b4c4d3;font-weight:bold;" value="View Map" id=submit1 name=submit1>
+		</td>
+	</tr>
+</table>
+</form>
+	
+<br>	
+<table cellpadding="4" cellspacing="0" border="0">
+	<tr>
+		<td  align="left" valign="middle">
+			<IMG SRC="images/113x43 infogroup logo no background.gif"  ALT="Infogroup logo">
+		</td>
+		<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+		<td style="font-size:smaller" valign="middle"><em>Employer information is provided by Infogroup&reg, Omaha, NE, 800/555-5211.<br> Copyright&copy 2011 All Rights Reserved.</em>
+		</td>
+	</tr>
+</table><br>
+<br>
+
+<br>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="footer">
+<ul>
+<li><a href="http://www.mass.gov/lwd/site-policies.html" class="titlelink">Site Policies</a></li>
+<li><a href="http://www.mass.gov/lwd/feedback.html" class="titlelink">Feedback</a></li>
+<li><a href="http://www.mass.gov/lwd/contacts.html" class="titlelink">Contact Us</a></li>
+</ul>
+<p id="copyright">2011 Commonwealth of Massachusetts.<br>
+Mass.Gov is a registered service mark of the Commonwealth of Massachusetts.</p>
+</div>
+<!-- #footer --></div>
+
+</body>
+</html>
